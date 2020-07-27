@@ -14,7 +14,7 @@ function App() {
       <p>I Createing this project for learn React</p>
       <hr/>
       <Header name="Pandey Pandey" titel=" Third"/>
-
+      <Header name="Sameer shing" titel=" Froth"/>
     </div>
   );
 }

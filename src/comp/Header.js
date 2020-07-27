@@ -5,7 +5,7 @@ function header({name,titel}){
            <h1>Header</h1>
            <h1>{name}</h1>
            <h3>{titel}</h3>
-           <p> This React Application for bulid concept </p>
+           <p> This React Application for bulid concept  rajat</p>
        </div>
     );
 }
